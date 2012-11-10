@@ -1,3 +1,6 @@
+#Vamshidhar Dantu
+#Aug 2012
+
 #! /usr/bin/python
 
 import sys, os
